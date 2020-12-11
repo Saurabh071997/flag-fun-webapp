@@ -79,7 +79,6 @@ export default function App() {
       <div className="header">
         <div className="navigation">
           <h2 style={{ fontSize: "3.5rem" }}>
-            {" "}
             Flag Fun <hr style={{ width: "30%" }} />
           </h2>
           {/* <hr style={{width:"30%"}}/> */}
